@@ -64,7 +64,7 @@ function Hero() {
                     <button className='text-white text-lg bg-purple-900 rounded-lg px-10 py-2'>Request a quote</button>
                 </div>
             </div>
-            <div className='bg-orange-700 text-sm'>
+            <div className='bg-orange-700'>
                 <Carousel data-bs-theme="dark">
                     <Carousel.Item>
                         <img
